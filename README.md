@@ -9,7 +9,7 @@
 - 😄 Who's the smartest teacher out there !!
 - ⚡ I learn fast and ready for the first chellengee
 - 
-
+  7/16/24 I wrote the readme here quite some time ago. Wanted to come back and see how the flow works here.
 <!---
 Goativ9/Goativ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
